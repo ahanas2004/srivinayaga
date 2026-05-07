@@ -31,7 +31,7 @@ const services = [
  sub: "Turnkey controlled environments.",
  body: "Full design, fabrication and validation of cleanroom facilities from ISO Class 8 down to ISO Class 5 — including HVAC, HEPA filtration, monitoring and qualification documentation.",
  items: ["ISO 14644 compliance", "HEPA & ULPA filtration", "DOP / PAO validation", "Particulate monitoring"],
- image: "https://images.unsplash.com/photo-1581093458791-9f3c3250bb8b?q=80&w=800"
+ image: "https://picsum.photos/seed/service3/800/600"
  },
  {
  no: "IV",

@@ -13,7 +13,7 @@ export default function Hero() {
  <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[800px] h-[400px] bg-bronze-100/30 blur-[120px] rounded-full z-0" />
  <div className="absolute inset-0 opacity-[0.1] z-0">
  <Image 
- src="https://images.unsplash.com/photo-1532187875302-1df628d7b7b3?q=80&w=1500"
+ src="https://picsum.photos/seed/hero/1500/600"
  alt="Background"
  fill
  className="object-cover grayscale"
