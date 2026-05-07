@@ -1,0 +1,146 @@
+[
+  {
+    "id": "analytical-balance-ax-224",
+    "name": "Analytical Balance AX-224",
+    "category": "Weighing Systems",
+    "industry": "Pharmaceutical",
+    "brand": "Sartorius",
+    "code": "SVS-AB-224",
+    "tagline": "Sub-milligram resolution for analytical chemistry.",
+    "description": "Engineered for laboratories demanding ±0.1 mg precision under controlled environments. Features an ionizer chamber and motorised draft shield.",
+    "specs": {
+      "Capacity": "220 g",
+      "Readability": "0.1 mg",
+      "Repeatability": "±0.1 mg",
+      "Calibration": "Internal isoCAL"
+    },
+    "year": "2024",
+    "image": "https://picsum.photos/seed/balance/800/600"
+  },
+  {
+    "id": "binocular-microscope-bm-9000",
+    "name": "Binocular Research Microscope BM-9000",
+    "category": "Optical Microscopy",
+    "industry": "Research",
+    "brand": "Leica",
+    "code": "SVS-MS-9000",
+    "tagline": "Apochromatic clarity for cellular observation.",
+    "description": "A semi-apochromatic optical train paired with Köhler illumination, designed for histology and pathology workflows.",
+    "specs": {
+      "Magnification": "40x – 1000x",
+      "Objectives": "Plan Achromatic",
+      "Illumination": "3W LED Köhler",
+      "Stage": "Mechanical, double-layer"
+    },
+    "year": "2024",
+    "image": "https://picsum.photos/seed/microscope/800/600"
+  },
+  {
+    "id": "laminar-airflow-lf-h12",
+    "name": "Horizontal Laminar Airflow LF-H12",
+    "category": "Cleanroom",
+    "industry": "Biotechnology",
+    "brand": "ESCO",
+    "code": "SVS-LF-H12",
+    "tagline": "ISO Class 5 working environment.",
+    "description": "HEPA-filtered horizontal laminar flow cabinet for sterile sample handling, fabricated with electro-galvanised steel and a powder-coat finish.",
+    "specs": {
+      "Class": "ISO 5 (Class 100)",
+      "Filtration": "HEPA H14, 99.999%",
+      "Airflow": "0.45 m/s ±20%",
+      "Working Area": "1200 × 600 mm"
+    },
+    "year": "2024",
+    "image": "https://picsum.photos/seed/airflow/800/600"
+  },
+  {
+    "id": "ph-meter-titrando-905",
+    "name": "Titrando 905 pH Meter",
+    "category": "Electrochemistry",
+    "industry": "Quality Control",
+    "brand": "Metrohm",
+    "code": "SVS-PH-905",
+    "tagline": "Modular potentiometric titration.",
+    "description": "Reference-grade pH and ion measurement with automated buret modules and intelligent electrode recognition.",
+    "specs": {
+      "Range": "-20 to 20 pH",
+      "Resolution": "0.001 pH",
+      "Accuracy": "±0.002 pH",
+      "Interface": "iConnect / USB"
+    },
+    "year": "2024",
+    "image": "https://picsum.photos/seed/phmeter/800/600"
+  },
+  {
+    "id": "ftir-spectrometer-ir-spirit",
+    "name": "FTIR Spectrometer IR-Spirit",
+    "category": "Spectroscopy",
+    "industry": "Pharmaceutical",
+    "brand": "Shimadzu",
+    "code": "SVS-IR-SPR",
+    "tagline": "Compact infrared molecular fingerprinting.",
+    "description": "A compact Fourier-transform infrared spectrometer with a high-energy ceramic source and DLATGS detector.",
+    "specs": {
+      "Range": "7800 – 350 cm⁻¹",
+      "Resolution": "0.9 cm⁻¹",
+      "S/N Ratio": "30,000:1",
+      "Source": "High-energy ceramic"
+    },
+    "year": "2024",
+    "image": "https://picsum.photos/seed/spectrometer/800/600"
+  },
+  {
+    "id": "muffle-furnace-mf-1400",
+    "name": "Muffle Furnace MF-1400",
+    "category": "Thermal",
+    "industry": "Materials",
+    "brand": "Nabertherm",
+    "code": "SVS-MF-1400",
+    "tagline": "High-temperature ashing & sintering.",
+    "description": "A bench-top muffle furnace with SiC heating elements and PID controller, ideal for ashing, sintering and heat treatment.",
+    "specs": {
+      "Max Temp": "1400 °C",
+      "Chamber": "8 L",
+      "Heating": "SiC elements",
+      "Control": "PID, programmable"
+    },
+    "year": "2024",
+    "image": "https://picsum.photos/seed/furnace/800/600"
+  },
+  {
+    "id": "centrifuge-microspin-24",
+    "name": "Microspin 24 Centrifuge",
+    "category": "Sample Preparation",
+    "industry": "Biotechnology",
+    "brand": "Eppendorf",
+    "code": "SVS-CF-24",
+    "tagline": "High-speed micro-volume separation.",
+    "description": "Refrigerated micro-centrifuge with aerosol-tight rotor lid and silent operation under 50 dB.",
+    "specs": {
+      "Max Speed": "15,000 rpm",
+      "Max RCF": "21,130 × g",
+      "Capacity": "24 × 1.5/2.0 mL",
+      "Temperature": "-10 to 40 °C"
+    },
+    "year": "2024",
+    "image": "https://picsum.photos/seed/centrifuge/800/600"
+  },
+  {
+    "id": "uv-vis-uvline-9400",
+    "name": "UV-Vis Spectrophotometer UVLine 9400",
+    "category": "Spectroscopy",
+    "industry": "Quality Control",
+    "brand": "SI Analytics",
+    "code": "SVS-UV-9400",
+    "tagline": "Dual-beam UV-visible spectrometry.",
+    "description": "Dual-beam optics with a 1 nm fixed bandwidth and silicon-photodiode detection for routine analytical work.",
+    "specs": {
+      "Range": "190 – 1100 nm",
+      "Bandwidth": "1 nm",
+      "Photometric": "±0.002 A",
+      "Display": "7\" colour TFT"
+    },
+    "year": "2024",
+    "image": "https://picsum.photos/seed/uvvis/800/600"
+  }
+]

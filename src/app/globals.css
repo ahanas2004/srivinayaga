@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --paper: #FFFFFF;
+  --ink: #0F172A;
+  --bronze: #0EA5E9; /* Tech Blue */
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-feature-settings: 'ss01', 'cv11';
+}
+
+::selection {
+  background: #0EA5E9;
+  color: #FFFFFF;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #F1F5F9; }
+::-webkit-scrollbar-thumb { background: #0EA5E9; }
+
+/* Removed serif style for numerals, making it consistent with tech theme */
+.numeral {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 500;
+}
+
+.eyebrow {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.hairline {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #0EA5E9, transparent);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Reveal animations base */
+.reveal-mask {
+  overflow: hidden;
+}
+
+/* Grain texture overlay removed to ensure a clean, clinical look */
+.grain::before {
+  display: none;
+}

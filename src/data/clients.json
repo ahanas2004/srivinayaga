@@ -1,0 +1,32 @@
+[
+  {
+    "name": "IIT Madras",
+    "sector": "Education & Research",
+    "city": "Chennai"
+  },
+  {
+    "name": "Apollo Hospitals",
+    "sector": "Healthcare",
+    "city": "Trichy"
+  },
+  {
+    "name": "BHEL",
+    "sector": "Public Sector",
+    "city": "Tiruchirappalli"
+  },
+  {
+    "name": "Dr. Reddys Labs",
+    "sector": "Pharmaceuticals",
+    "city": "Hyderabad"
+  },
+  {
+    "name": "TATA Chemicals",
+    "sector": "Industrial",
+    "city": "Mithapur"
+  },
+  {
+    "name": "Biocon",
+    "sector": "Biotechnology",
+    "city": "Bangalore"
+  }
+]

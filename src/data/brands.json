@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Carl Zeiss",
+    "origin": "Germany",
+    "since": "1846",
+    "discipline": "Optics & Imaging"
+  },
+  {
+    "name": "Thermo Fisher",
+    "origin": "USA",
+    "since": "1902",
+    "discipline": "Analytical Instruments"
+  },
+  {
+    "name": "Sartorius",
+    "origin": "Germany",
+    "since": "1870",
+    "discipline": "Laboratory & Bioprocess"
+  },
+  {
+    "name": "Eppendorf",
+    "origin": "Germany",
+    "since": "1945",
+    "discipline": "Liquid Handling"
+  },
+  {
+    "name": "Mettler Toledo",
+    "origin": "Switzerland",
+    "since": "1945",
+    "discipline": "Precision Scales"
+  },
+  {
+    "name": "Agilent",
+    "origin": "USA",
+    "since": "1999",
+    "discipline": "Life Sciences"
+  }
+]

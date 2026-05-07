@@ -1,0 +1,11 @@
+{
+  "primary": [
+    { "label": "Home", "href": "/", "ord": "01" },
+    { "label": "About Us", "href": "/about", "ord": "02" },
+    { "label": "Products", "href": "/products", "ord": "03" },
+    { "label": "Brands", "href": "/brands", "ord": "04" },
+    { "label": "Services", "href": "/services", "ord": "05" },
+    { "label": "Clients", "href": "/clients", "ord": "06" },
+    { "label": "Contact Us", "href": "/contact", "ord": "07" }
+  ]
+}

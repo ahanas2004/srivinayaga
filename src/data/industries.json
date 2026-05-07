@@ -1,0 +1,8 @@
+[
+  { "name": "Pharmaceutical", "code": "01", "description": "Compendial-grade analytical infrastructure for QC, R&D and formulation laboratories." },
+  { "name": "Biotechnology", "code": "02", "description": "Sterile environments, cell culture & molecular biology instrumentation." },
+  { "name": "Academia & Research", "code": "03", "description": "Equipping universities and research institutes with precision teaching and research instruments." },
+  { "name": "Petrochemical", "code": "04", "description": "Robust analytical and process instrumentation for refineries and downstream processing." },
+  { "name": "Materials Science", "code": "05", "description": "Thermal processing, metallography and surface characterisation tools." },
+  { "name": "Environmental Testing", "code": "06", "description": "Water, air and soil quality monitoring instruments calibrated to national standards." }
+]
